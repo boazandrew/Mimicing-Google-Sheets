@@ -1,4 +1,5 @@
-# React + Vite
+# Mimicing Google Sheets
+[Live Demo on Netlify](https://67c145422027ef0008f774ce--stirring-bunny-8ee90e.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
